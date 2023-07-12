@@ -3,11 +3,11 @@
 A web application that allows users to interact with OpenAI's GPT-3 language model through a simple and user-friendly interface.
 This app is for demo purpose to test OpenAI API and may contain issues/bugs.
 
-If you are looking for a simple HTML/vanilla JavaScript version, check [here](https://github.com/ioanmo226/chatgpt-web-application)
+If you are looking for a simple HTML/vanilla JavaScript version, check [here](https://github.com/trojandeveloper/chatgpt-react-application)
 
 ![Demo Gif](/client/src/img/demo2.gif)
 
-<a href="https://www.buymeacoffee.com/ioanmo226" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51" width="217"></a>
+<a href="https://www.buymeacoffee.com/trojandeveloper" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="51" width="217"></a>
 
 
 ## Features
@@ -26,7 +26,7 @@ This guide will help you set up the repository on your local machine. Please fol
 ### Cloning the repository
 Use the following command to clone the repository:
 ```sh
-git clone https://github.com/ioanmo226/chatgpt-web-application
+git clone https://github.com/trojandeveloper/chatgpt-react-application
 ```
 
 ### Backend Setup
